@@ -14,7 +14,7 @@ async function parallelMap<T, R>(
                 const result = await asyncFunction(value);
                 results.push(result);
             } catch (error) {
-                results.push(error as R); // Handle errors gracefully
+                results.push(error as R);
             } finally {
                 activeTasks--;
                 await processNext();
