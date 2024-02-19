@@ -4,7 +4,7 @@
 
 ## How to run
 
-### cd task1
+### `cd task1`
 ### `npm install`
 ### `npm start`
 
@@ -19,6 +19,6 @@ You may also see any lint errors in the console.
 
 ## How to test
 
-### cd task2
+### `cd task2`
 ### `npm install`
 ### `npx jest`
