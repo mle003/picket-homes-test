@@ -5,6 +5,7 @@
 ## How to run
 
 ### cd task1
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -19,4 +20,5 @@ You may also see any lint errors in the console.
 ## How to test
 
 ### cd task2
+### `npm install`
 ### `npx jest`
